@@ -1,4 +1,4 @@
 print('Config Python')
-print('Version2')
+print('Version1')
 
 
